@@ -1,5 +1,5 @@
 Download uncased_L-12_H-768_A-12 (https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip)
 
-
+Download pre trained model of the pytorch from (https://drive.google.com/open?id=1GPS7EaCjUBDcdSYsl8UwgapsyS0ciSVj) and put it in MODEL_OUTPUT and uncased_L-12_H-768_A-12 folders.
 
 In mnli folder there should be 3 files dev_mismatched.tsv with sentence to sentence pairs , dev_matched.tsv an empty file and train.tsv an empty file. 
