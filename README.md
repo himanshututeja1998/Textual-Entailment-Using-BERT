@@ -8,8 +8,8 @@ Basic Library Istallation
 PyTorch pretrained bert can be installed by pip as follows:
 pip install pytorch-pretrained-bert (https://github.com/huggingface/pytorch-pretrained-BERT)
 
-This repository is basically clone from the original repository (https://github.com/huggingface/pytorch-pretrained-BERT)
-few changes that have been done are discussed as follows.
+This repository is advanced repositry of the original repository (https://github.com/huggingface/pytorch-pretrained-BERT)
+that basically provide to do entailment task with great ease.
 
 Other than MNLI you can use it on other datasets. It not just gives the evaluation result it also saves the prediction.
 Some changes are done in run_classifier.py .
